@@ -1,0 +1,15 @@
+{
+  "name": "web-workers-with-nodejs",
+  "version": "1.0.0",
+  "description": "trying out multithreading with nodejs",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Revan99",
+  "license": "ISC",
+  "dependencies": {
+    "comlink": "^4.4.1"
+  }
+}
